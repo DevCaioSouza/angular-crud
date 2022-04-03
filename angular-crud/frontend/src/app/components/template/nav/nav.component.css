@@ -7,6 +7,17 @@
   color: #fff;
 }
 
+.sidenav a:hover{
+  color: #fff;
+  background-color: #3447b3;
+  transition: .3s ease-in-out;
+}
+
 .sidenav i {
   padding-right: 10px;
+}
+
+.content{
+  padding: 16px;
+  background-color: #fff;
 }
