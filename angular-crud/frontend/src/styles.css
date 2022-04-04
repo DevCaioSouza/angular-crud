@@ -10,3 +10,12 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 .v-middle{
   vertical-align: middle;
 }
+
+.snack-bar{
+  color: #fff;
+  position: absolute;
+  border-radius: 5px;
+  background-color: #3a3a3a;
+  left: 500px;
+  z-index: 9999999999;
+}
