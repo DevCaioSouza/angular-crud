@@ -18,8 +18,8 @@ export class ProductService {
     this.snackBar.open(msg, 'X', {
       duration: 3000, 
       panelClass: 'snack-bar',
-      // horizontalPosition: "right",
-      // verticalPosition: "top"
+      horizontalPosition: "right",
+      verticalPosition: "top"
     })
   }
 

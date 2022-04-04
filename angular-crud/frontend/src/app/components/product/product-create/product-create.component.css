@@ -1,5 +1,14 @@
 .primary{
   background-color: #3447b3;
   color: #fff;
-  margin-right: 5px;
+  margin-right: 10px;
+}
+
+form{
+  display: flex;
+  flex-direction: column;
+}
+
+button{
+  margin-top: 20px;
 }
